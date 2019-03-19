@@ -1,0 +1,6 @@
+train-data
+.ipynb_*
+.directory
+*.txt
+*.data
+*.label

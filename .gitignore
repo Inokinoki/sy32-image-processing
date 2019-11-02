@@ -4,7 +4,7 @@ train-data
 *.txt
 *.data
 *.label
-__pyvavhe__
+__pycache__
 *.pkl
 *.jpg
 output/

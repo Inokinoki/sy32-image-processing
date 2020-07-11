@@ -14,7 +14,7 @@ Train a Machine Learning Model to detect faces in images, Support Vector Machine
 
 # How to use
 
-1. Download the model from project release, put it into the facial-detection folder.
+1. Download the pre-trained model from project release, put it into the facial-detection folder. You can also train your own using `train.py`.
 2. Install dependencies:
 
 ```
